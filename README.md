@@ -1,1 +1,3 @@
-# branche-merge-demo
+# branch-merge-demo
+
+## Have fun with it!
